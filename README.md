@@ -1,2 +1,2 @@
 # MyStuff
-This is code projects that I have worked on by myself. 
+This is a simple coding exercise where I create people of different ages and make them do different actions.
